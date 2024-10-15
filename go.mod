@@ -5,7 +5,7 @@ go 1.23
 require (
 	github.com/fsnotify/fsnotify v1.7.0
 	github.com/imdario/mergo v0.3.16
-	github.com/prometheus/client_golang v1.20.4
+	github.com/prometheus/client_golang v1.20.5
 	github.com/stretchr/testify v1.9.0
 	golang.org/x/net v0.29.0
 	golang.org/x/sync v0.8.0
